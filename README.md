@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # AmphibianWorld
 =======
-HW #5 – Build Amphibians App
-Reference & Summary Report
 
 References:
 Jetpack Compose Documentation – https://developer.android.com/jetpack/compose
@@ -26,11 +24,8 @@ If data is still loading, a circular progress bar appears.
 If there’s a network problem, an error message with a “Retry” button is shown.
 The data is managed with StateFlow inside a ViewModel.
 
-I also added Bonus Features
 Click-to-expand animation for each amphibian card.
 Custom title added at the top of the list.
 Personalized colors and clean layout using Material3.
 Fun touch with a frog emoji 🐸 in error messages.
 
-O
->>>>>>> c5fbc79 (Added README.md file)
